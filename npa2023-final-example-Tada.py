@@ -1,7 +1,7 @@
 #######################################################################################
-# FirstName/Surname:
-# Student ID:
-# Github repository URL: 
+# FirstName/Surname: Tada Teerawarakul
+# Student ID: 64070159
+# Github repository URL: https://github.com/TadaTeerawarakul/NPA2023-Final-Example-Tada
 #######################################################################################
 # Instruction
 # Reads README.md in https://github.com/chotipat/NPA2023-Final-Example for more information.
