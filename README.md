@@ -1,8 +1,8 @@
 # NPA2023 Final Example
 
-- Name/Surname:
-- Student ID:
-- GitHub repository URL:
+- Name/Surname: Tada Teerawarakul
+- Student ID: 64070159
+- GitHub repository URL: https://github.com/TadaTeerawarakul/NPA2023-Final-Example-Tada
 
 ## Instruction
 
